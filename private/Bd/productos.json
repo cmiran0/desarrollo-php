@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1pr",
+    "name": "Manzana",
+    "pvp": "1.25",
+    "descripcion": "Golden apple",
+    "impuesto": "21"
+  },
+  {
+    "id": "2pr",
+    "name": "Tomate",
+    "pvp": "1.62",
+    "descripcion": "Golden tomato",
+    "impuesto": "21"
+  },
+  {
+    "id": "3pr",
+    "name": "Tomate",
+    "descripcion": "Golden tom",
+    "impuesto": "21",
+    "pvp": 25.41
+  },
+  {
+    "id": "4pr",
+    "name": "limon",
+    "descripcion": "amarillo",
+    "impuesto": "50",
+    "pvp": 37.5
+  }
+]
